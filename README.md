@@ -1,2 +1,2 @@
-# default-environment-charts
-The default git repository used when creating new GitOps based Environments
+# pre-prod environment
+Update requirements.yaml and env/values.yaml with actual versions and chart values
